@@ -142,22 +142,23 @@ tr, td{
     vertical-align: top;
     max-height: 60px;
     font-size: 20px;
-    text-decoration: none;
 }
 
 .menu_main{
     justify-content: left;
     padding-left: 20%;
+    text-decoration: none;
 }
 
 .menu_portfolio{
     justify-content: center;
-
+    text-decoration: none;
 }
 
 .menu_contacts{
     justify-content: right;
     padding-right: 20%;
+    text-decoration: none;
 }
 
 .language, .language_level{
