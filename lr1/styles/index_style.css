@@ -1,0 +1,42 @@
+body{
+    background: url(image/bg.jpg);
+    background-size: cover;
+    margin-left: 10px;
+}
+
+img{
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+tr, td{
+    border: 2px solid darkslategray;
+}
+
+.capibara{
+    width: 200px;
+    height: 200px;
+    border-style:none;
+}
+
+.shed{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.shedule{
+    margin-top: 30px;
+    margin-left: 200px;
+    font-size: 24px;
+    border: 2px solid darkslategray;
+    padding: 8px;
+    background-color: #67bad6;
+    color: black;
+}
+
+.info{
+    font-size: 24px;
+    font-style: italic;
+
+}
